@@ -1,3 +1,3 @@
 # tutorial
-tutorial
-aaa
+GitHubの機能を試すリポジトリ
+なんか追加
